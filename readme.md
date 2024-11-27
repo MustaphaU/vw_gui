@@ -3,7 +3,7 @@ This simple program enables the conversion of tabular dataset to vowpal wabbit f
 
 `Caution`: this implementation assumes the 
 * **outcome** is binary (`true/false`, `yes/no`, etc.)
-* **feature space** consist only `numerical` and `categorical` features
+* **namespaces** consist only `numerical` and `categorical` features
 
 
 ### Instructions for use
