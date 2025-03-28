@@ -31,7 +31,7 @@ python vw_gui.py
 Once the app starts, you should see the interface:
 ![The Interface](./static/vw_gui_interface.png)
 
-6. **Fill out the fields correctly and hit the generate button. This will generate the vowpal wabbit and save it in the [data_gui](./data_gui) folder.**
+6. **Fill out the fields correctly and hit the generate button. This will generate the vowpal wabbit file and save it in the [data_gui](./data_gui) folder.**
 
 
 
